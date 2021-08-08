@@ -9,3 +9,7 @@
   <li>C#</li>
   <li>Python</li>
   <li>OpenCV</li>
+<br>
+<img src="ima1.png">
+
+<img src="ima2.png">
